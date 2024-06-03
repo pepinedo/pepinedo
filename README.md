@@ -5,12 +5,12 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 ## 🛠 Habilidades
 
 - **Lenguajes de programación**: C, C++, Java, Bash. HTML, CSS, JavaScript.
-- <a href="https://github.com/pepinedo/pepinedo">
+<a href="https://github.com/pepinedo/pepinedo">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js" alt="My Skills">
 </a>
 - **Herramientas y Tecnologías**: Visual Studio Code, Git, IA.
-- <a href="https://github.com/pepinedo/pepinedo">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,JavaScript" alt="My Skills">
+<a href="https://github.com/pepinedo/pepinedo">
+    <img src="https://skillicons.dev/icons?i=vsc, git, IA" alt="My Skills">
 </a>
 
 ## 🚀 Proyectos Destacados
