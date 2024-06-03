@@ -49,8 +49,11 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 
 ## 💡 Sobre Mí
 
-Soy un entusiasta de la tecnología con un interés especial en [tu área de interés, por ejemplo, inteligencia artificial, desarrollo web, etc.]. En mi tiempo libre, disfruto de [tus hobbies o intereses].
+Me gustan mucho los juegos de mesa, es uno de mis principales hobbies. Entre ellos se encuentra Magic The Gathering, un juego que ha vertebrado mi vida desde que tengo conciencia.
+Por su puesto me encantan los videojuegos, sobretodo los modo historia en los que sumergirte. 
+Por otro lado, soy escalador. Si, de esos que se van a la montaña a "hacer el loco". Bueno, de hacer el loco poco, pero de disfrutar de la naturaleza y de enfrentar miedos si. 
+Y como no puede faltar, solecito, amigos y cerveza siempre es un planazo.
 
 ---
 
-¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o quieres colaborar en un proyecto, no dudes en ponerte en contacto conmigo.
+¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta, no dudes en ponerte en contacto conmigo.
