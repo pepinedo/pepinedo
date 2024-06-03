@@ -55,7 +55,7 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 
 - Por otro lado, soy escalador. Si, de esos que se van a la montaña a "hacer el loco". Bueno, de hacer el loco poco, pero de disfrutar de la naturaleza y de enfrentar miedos si.
 
-- Y como no puede faltar, solecito, amigos y cerveza siempre es un planazo.
+- Y como no puede faltar: solecito, amigos y cerveza siempre es un planazo.
 
 
 ---
