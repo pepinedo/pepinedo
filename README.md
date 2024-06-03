@@ -16,6 +16,11 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
     <img src="https://skillicons.dev/icons?i=vscode,git,discord,ai,linux,ubuntu,notion" alt="My Skills">
 </a>
 
+| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Discord](https://skillicons.dev/icons?i=discord) | ![IA](https://skillicons.dev/icons?i=ai) |
+| ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------- |
+| **Visual Studio Code**                                       | **Git**                                   | **Discord**                                         | **IA**                                    |
+
+
 ## 🚀 Proyectos Destacados
 
 - **[so_long](https://github.com/pepinedo/so_long)**: Pequeño minijuego 2D desarrollado en C.
