@@ -4,23 +4,16 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 
 ## 🛠 Habilidades
 
-- **Lenguajes de programación**: C, C++, Java, Bash. HTML, CSS, JavaScript.
+- **Lenguajes de programación**:
   
-  <a href="https://github.com/pepinedo/pepinedo">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,java,html,css" alt="My Skills">
-</a>
 
 | ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Java](https://skillicons.dev/icons?i=java) | ![Bash](https://skillicons.dev/icons?i=bash) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![JavaScript](https://skillicons.dev/icons?i=javascript) |
 | -------------------------------------- | ------------------------------------------- | -------------------------------------------- | --------------------------------------------- | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------- |
 | **C**                                  | **C++**                                    | **Java**                                     | **Bash**                                     | **HTML**                                    | **CSS**                                    | **JavaScript**                                          |
 
 
-
 - **Herramientas y Tecnologías**: Visual Studio Code, Git, Discord, IA.
   
-  <a href="https://github.com/pepinedo/pepinedo">
-    <img src="https://skillicons.dev/icons?i=vscode,git,discord,ai,linux,ubuntu,notion" alt="My Skills">
-</a>
 
 | ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Discord](https://skillicons.dev/icons?i=discord) | ![IA](https://skillicons.dev/icons?i=ai) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![Notion](https://skillicons.dev/icons?i=notion) |
 | ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
