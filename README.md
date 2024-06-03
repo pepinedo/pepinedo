@@ -31,12 +31,14 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 ## 📫 Contacto
 
 <a href="mailto:pedropinedocobo@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Icono de correo">
-</a> pedropinedocobo@gmail.com
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Icono de correo" style="float:left; margin-right:10px;">
+</a> 
+pedropinedocobo@gmail.com
 
 <a href="https://www.linkedin.com/in/pedro-pinedo-cobo/">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="Icono de LinkedIn">
-</a> https://www.linkedin.com/in/pedro-pinedo-cobo/
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Icono de LinkedIn" style="float:left; margin-right:10px;">
+</a> 
+https://www.linkedin.com/in/pedro-pinedo-cobo/
 
 
 ## 💡 Sobre Mí
