@@ -7,17 +7,19 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 - **Lenguajes de programación**:
   
 
-| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Java](https://skillicons.dev/icons?i=java) | ![Bash](https://skillicons.dev/icons?i=bash) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![JavaScript](https://skillicons.dev/icons?i=javascript) |
-| -------------------------------------- | ------------------------------------------- | -------------------------------------------- | --------------------------------------------- | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------- |
-| **C**                                  | **C++**                                    | **Java**                                     | **Bash**                                     | **HTML**                                    | **CSS**                                    | **JavaScript**                                          |
+| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Bash](https://skillicons.dev/icons?i=bash) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![Java](https://skillicons.dev/icons?i=java) |
+| -------------------------------------- | ------------------------------------------- | --------------------------------------------- | ------------------------------------------- | ------------------------------------------ | -------------------------------------------- |
+| **C**                                  | **C++**                                    | **Bash**                                     | **HTML**                                    | **CSS**                                    | **Java**                                     |
+
 
 
 - **Herramientas y Tecnologías**:
   
 
-| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Discord](https://skillicons.dev/icons?i=discord) | ![IA](https://skillicons.dev/icons?i=ai) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![Notion](https://skillicons.dev/icons?i=notion) |
-| ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| **Visual Studio Code**                                       | **Git**                                   | **Discord**                                         | **IA**                                    | **Linux**                                      | **Ubuntu**                                      | **Notion**                                      |
+| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![CentOS](https://skillicons.dev/icons?i=centos) | ![IA](https://skillicons.dev/icons?i=ai) |
+| ------------------------------------------------------------ | ----------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ------------------------------------------------ | ----------------------------------------- |
+| **Visual Studio Code**                                       | **Git**                                   | **Linux**                                      | **Ubuntu**                                      | **CentOS**                                      | **IA**                                    |
+
 
 
 ## 🚀 Proyectos Destacados
