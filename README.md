@@ -1,29 +1,29 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋
 
-Soy un desarrollador de software apasionado por la tecnología y la innovación. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes.
+Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actualmente estoy aprendiendo C y C++ en la escuela 42Málaga y, paralelamente, soy reclutador del mundo IT. 
 
 ## 🛠 Habilidades
 
-- **Lenguajes de programación**: Python, JavaScript, Java, C++, Ruby
-- **Frameworks y Librerías**: React, Angular, Django, Flask, Spring Boot
-- **Bases de Datos**: MySQL, PostgreSQL, MongoDB
-- **Herramientas y Tecnologías**: Git, Docker, Kubernetes, AWS, Jenkins
+- **Lenguajes de programación**: C, C++, Java, Bash. HTML, CSS, JavaScript.
+- **Herramientas y Tecnologías**: Visual Studio Code, Git, IA.
+- <a href="https://github.com/pepinedo/pepinedo">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,JavaScript" alt="My Skills">
+</a>
 
 ## 🚀 Proyectos Destacados
 
-- **[Proyecto 1](URL_del_Proyecto_1)**: Breve descripción del proyecto 1.
-- **[Proyecto 2](URL_del_Proyecto_2)**: Breve descripción del proyecto 2.
-- **[Proyecto 3](URL_del_Proyecto_3)**: Breve descripción del proyecto 3.
+- **[so_long](https://github.com/pepinedo/so_long)**: Pequeño minijuego 2D desarrollado en C.
+- **[printf]((https://github.com/pepinedo/Printf))**: Reproducción de la función printf en C. 
+- **[libft](https://github.com/pepinedo/Libft)**: La biblioteca en C que utilizo en 42. Completamente desarrollada a mano.
 
 ## 📫 Contacto
 
-- **Correo**: tu_email@ejemplo.com
-- **LinkedIn**: [Tu Perfil de LinkedIn](URL_de_LinkedIn)
-- **Twitter**: [@TuUsuarioDeTwitter](URL_de_Twitter)
+- **Correo**: pedropinedocobo@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/pedro-pinedo-cobo/
 
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+<a href="https://github.com/francfer-art/francfer-art">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" alt="My Skills">
+</a>
 
 ## 💡 Sobre Mí
 
