@@ -33,9 +33,16 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 - **Correo**: pedropinedocobo@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/pedro-pinedo-cobo/
 
-<a href="https://github.com/francfer-art/francfer-art">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" alt="My Skills">
+<a href="mailto:pedropinedocobo@gmail.com">
+    <img src="https://example.com/icono-de-correo.png" alt="Icono de correo">
 </a>
+- **Correo**: pedropinedocobo@gmail.com
+
+<a href="https://www.linkedin.com/in/pedro-pinedo-cobo/">
+    <img src="https://example.com/icono-de-linkedin.png" alt="Icono de LinkedIn">
+</a>
+- **LinkedIn**: https://www.linkedin.com/in/pedro-pinedo-cobo/
+
 
 ## 💡 Sobre Mí
 
