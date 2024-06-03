@@ -12,7 +12,7 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 | **C**                                  | **C++**                                    | **Java**                                     | **Bash**                                     | **HTML**                                    | **CSS**                                    | **JavaScript**                                          |
 
 
-- **Herramientas y Tecnologías**: Visual Studio Code, Git, Discord, IA.
+- **Herramientas y Tecnologías**:
   
 
 | ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Discord](https://skillicons.dev/icons?i=discord) | ![IA](https://skillicons.dev/icons?i=ai) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![Notion](https://skillicons.dev/icons?i=notion) |
