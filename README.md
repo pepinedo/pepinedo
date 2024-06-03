@@ -34,12 +34,12 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 - **LinkedIn**: https://www.linkedin.com/in/pedro-pinedo-cobo/
 
 <a href="mailto:pedropinedocobo@gmail.com">
-    <img src="https://example.com/icono-de-correo.png" alt="Icono de correo">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Icono de correo">
 </a>
 - **Correo**: pedropinedocobo@gmail.com
 
 <a href="https://www.linkedin.com/in/pedro-pinedo-cobo/">
-    <img src="https://example.com/icono-de-linkedin.png" alt="Icono de LinkedIn">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="Icono de LinkedIn">
 </a>
 - **LinkedIn**: https://www.linkedin.com/in/pedro-pinedo-cobo/
 
