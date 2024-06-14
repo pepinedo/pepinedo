@@ -13,12 +13,10 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 
 
 - **Herramientas y Tecnologías**:
-  
 
-| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![IA](https://skillicons.dev/icons?i=ai) |
-| ------------------------------------------------------------ | ----------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------- |
-| **Visual Studio Code**                                       | **Git**                                   | **Linux**                                      | **Ubuntu**                                      | **IA**                                    |
-
+| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![IA](https://skillicons.dev/icons?i=ai) | ![iOS](https://skillicons.dev/icons?i=apple) |
+| ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------- | --------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| **Visual Studio Code**                                       | **Git**                                   | **Linux**                                     | **Ubuntu**                                    | **IA**                                    | **iOS**                                    |
 
 
 
