@@ -6,16 +6,17 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 
 - **Lenguajes de programación**:
 
-| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Bash](https://skillicons.dev/icons?i=bash) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![Python](https://skillicons.dev/icons?i=python) |
-| -------------------------------------- | ------------------------------------------- | --------------------------------------------- | ------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| **C**                                  | **C++**                                     | **Bash**                                      | **HTML**                                    | **CSS**                                    | **Python**                                    |
+- **Lenguajes y Scripts**:
+
+| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Bash](https://skillicons.dev/icons?i=bash) |
+| -------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| **C**                                  | **C++**                                    | **Bash**                                      |
 
 - **Herramientas y Tecnologías**:
 
-| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![IA](https://skillicons.dev/icons?i=ai) | ![iOS](https://skillicons.dev/icons?i=apple) |
-| ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------- | --------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| **Visual Studio Code**                                       | **Git**                                   | **Linux**                                     | **Ubuntu**                                    | **IA**                                    | **iOS**                                    |
-
+| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![IA](https://skillicons.dev/icons?i=ai) |
+| ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------- | --------------------------------------------- | ----------------------------------------- |
+| **Visual Studio Code**                                       | **Git**                                   | **Linux**                                     | **Ubuntu**                                    | **IA**                                    |
 
 
 ## 🚀 Proyectos Destacados
