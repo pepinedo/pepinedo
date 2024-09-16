@@ -6,17 +6,15 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 
 - **Lenguajes de programación**:
 
-| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Bash](https://skillicons.dev/icons?i=bash) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) |
-| -------------------------------------- | ------------------------------------------ | --------------------------------------------- | -------------------------------------------- | ------------------------------------------ |
-| **C**                                  | **C++**                                    | **Bash**                                      | **HTML**                                     | **CSS**                                    |
-
-
+| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Bash](https://skillicons.dev/icons?i=bash) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![CMake](https://skillicons.dev/icons?i=cmake) |
+| -------------------------------------- | ------------------------------------------ | --------------------------------------------- | -------------------------------------------- | ------------------------------------------ | ---------------------------------------------- |
+| **C**                                  | **C++**                                    | **Bash**                                      | **HTML**                                     | **CSS**                                    | **CMake**                                      |
 
 - **Herramientas y Tecnologías**:
 
-| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![IA](https://skillicons.dev/icons?i=ai) | ![VirtualBox](https://skillicons.dev/icons?i=virtualbox) | ![Windows](https://skillicons.dev/icons?i=windows) | ![Notion](https://skillicons.dev/icons?i=notion) | ![WordPress](https://skillicons.dev/icons?i=wordpress) |
-| ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------- | --------------------------------------------- | ----------------------------------------- | -------------------------------------------------------- | ----------------------------------- | ------------------------- | ----------------------------------------- |
-| **Visual Studio Code**                                       | **Git**                                   | **Linux**                                     | **Ubuntu**                                    | **IA**                                    | **VirtualBox**                                            | **Windows**                       | **Notion**                 | **WordPress**                            |
+| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![IA](https://skillicons.dev/icons?i=ai) | ![Windows](https://skillicons.dev/icons?i=windows) | ![Notion](https://skillicons.dev/icons?i=notion) | ![WordPress](https://skillicons.dev/icons?i=wordpress) | ![Discord](https://skillicons.dev/icons?i=discord) |
+| ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------- | --------------------------------------------- | ----------------------------------------- | ----------------------------------- | ------------------------- | ----------------------------------------- | ---------------------------------------- |
+| **VSCode**                                                   | **Git**                                   | **Linux**                                     | **Ubuntu**                                    | **IA**                                    | **Windows**                       | **Notion**                 | **WordPress**                            | **Discord**                              |
 
 
 ## 🚀 Proyectos Destacados
