@@ -13,8 +13,11 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 - **Herramientas y Tecnologías**:
 
 | ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![WordPress](https://skillicons.dev/icons?i=wordpress) | ![Discord](https://skillicons.dev/icons?i=discord) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![Windows](https://skillicons.dev/icons?i=windows) |
-| ------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------- | --------------------------------------------- | --------------------------------------------- | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | ---------------------------------------- |
-| **VSCode**                                                   | **Git**                                   | **Notion**                                    | **WordPress**                                | **Discord**                                 | **Linux**                                  | **Ubuntu**                                 | **Windows**                               |
+|-------------------------------------------------------------|--------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|------------------------------------------|
+| **VSCode**                                                   | **Git**                                    | **Notion**                                     | **WordPress**                                 | **Discord**                                  | **Linux**                                   | **Ubuntu**                                  | **Windows**                                |
+
+
+
 
 ## 🚀 Proyectos Destacados
 
