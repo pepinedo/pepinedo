@@ -6,9 +6,11 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 
 - **Lenguajes de programación**:
 
-| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Bash](https://skillicons.dev/icons?i=bash) |
-| -------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| **C**                                  | **C++**                                    | **Bash**                                      |
+| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Bash](https://skillicons.dev/icons?i=bash) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) |
+| -------------------------------------- | ------------------------------------------ | --------------------------------------------- | -------------------------------------------- | ------------------------------------------ |
+| **C**                                  | **C++**                                    | **Bash**                                      | **HTML**                                     | **CSS**                                    |
+
+
 
 - **Herramientas y Tecnologías**:
 
