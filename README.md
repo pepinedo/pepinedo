@@ -11,6 +11,12 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 | **C**                                  | **C++**                                    | **Bash**                                      | **HTML**                                     | **CSS**                                    | **CMake**                                      |
 
 - **Herramientas y Tecnologías**:
+- 
+| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![WordPress](https://skillicons.dev/icons?i=wordpress) | ![Discord](https://skillicons.dev/icons?i=discord) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![Windows](https://skillicons.dev/icons?i=windows) | ![IA](https://skillicons.dev/icons?i=ai) |
+| ------------------------------------------------------------ | ----------------------------------------- | ------------------------- | ----------------------------------------- | ---------------------------------- | ----------------------------------- | ----------------------------------- | -------------------------- | -------------------------- | ------------------------- |
+| **VSCode**                                                   | **Git**                                   | **Notion**                 | **WordPress**                            | **Discord**                         | **Linux**                           | **Ubuntu**                        | **Windows**                 | **IA**                    |
+
+
 
 | ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![IA](https://skillicons.dev/icons?i=ai) | ![Windows](https://skillicons.dev/icons?i=windows) | ![Notion](https://skillicons.dev/icons?i=notion) | ![WordPress](https://skillicons.dev/icons?i=wordpress) | ![Discord](https://skillicons.dev/icons?i=discord) |
 | ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------- | --------------------------------------------- | ----------------------------------------- | ----------------------------------- | ------------------------- | ----------------------------------------- | ---------------------------------------- |
