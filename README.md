@@ -12,9 +12,9 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actu
 
 - **Herramientas y Tecnologías**:
 
-| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![WordPress](https://skillicons.dev/icons?i=wordpress) | ![Discord](https://skillicons.dev/icons?i=discord) | ![Linux](https://skillicons.dev/icons?i=linux) |
-| ------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------- | --------------------------------------------- | --------------------------------------------- | ------------------------------------------ |
-| **VSCode**                                                   | **Git**                                   | **Notion**                                    | **WordPress**                                | **Discord**                                 | **Linux**                                   |
+| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![Chrome DevTools](https://skillicons.dev/icons?i=chrome) | ![Discord](https://skillicons.dev/icons?i=discord) | ![Linux](https://skillicons.dev/icons?i=linux) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| ------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| **VSCode**                                                   | **Git**                                   | **Notion**                                    | **Chrome DevTools**                                  | **Discord**                                 | **Linux**                                   | **MySQL**                                    |
 
 
 
