@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Actualmente estoy aprendiendo C y C++ en la escuela 42Málaga y, paralelamente, soy reclutador del mundo IT. 
+Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Todo empezó en 42Málaga, donde empecé aprendiendo C, todo en Linux. Me gustó bastante, vi cuantas cosas se podías hacen y mi vena creadora se empezó a estimular a lo grande. Tras un año en la escuela, decidí dar un paso más y entré en Socratech para así empezar mi camino como Full Stack Developper. Aquí JavaScript está siendo mi gran aliada :) 
 
 ## 🛠 Habilidades
 
