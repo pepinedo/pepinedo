@@ -12,9 +12,10 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Todo
 
 - **Herramientas y Tecnologías**:
 
-| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![Chrome DevTools](https://skillicons.dev/icons?i=chrome) | ![Discord](https://skillicons.dev/icons?i=discord) | ![Linux](https://skillicons.dev/icons?i=linux) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| ------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| **VSCode**                                                   | **Git**                                   | **Notion**                                    | **Chrome DevTools**                                  | **Discord**                                 | **Linux**                                   | **MySQL**                                    |
+| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Discord](https://skillicons.dev/icons?i=discord) | ![Linux](https://skillicons.dev/icons?i=linux) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| ------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | --------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| **VSCode**                                                   | **Git**                                   | **Notion**                                    | **Node.js**                                      | **Discord**                                 | **Linux**                                   | **MySQL**                                    |
+
 
 
 
