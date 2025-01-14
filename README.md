@@ -11,14 +11,10 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Todo
 | **C**                                  | **Bash**                                     | **HTML**                                     | **CSS**                                    | **JavaScript**                                            | **SQL**                                     |
 
 - **Herramientas y Tecnologías**:
-
-| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Discord](https://skillicons.dev/icons?i=discord) | ![Linux](https://skillicons.dev/icons?i=linux) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| ------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | --------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| **VSCode**                                                   | **Git**                                   | **Notion**                                    | **Node.js**                                      | **Discord**                                 | **Linux**                                   | **MySQL**                                    |
-
-
-
-
+- 
+| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Linux](https://skillicons.dev/icons?i=linux) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| ------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | ------------------------------------------ | --------------------------------------------- |
+| **VSCode**                                                   | **Git**                                   | **Notion**                                    | **Node.js**                                      | **Linux**                                   | **MySQL**                                    |
 
 
 ## 🚀 Proyectos Destacados
