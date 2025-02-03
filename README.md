@@ -10,11 +10,18 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Todo
 | -------------------------------------- | ------------------------------------------ | ---------------------------------------- | -------------------------------------------------------- | ------------------------------------------- |
 | **C**                                  | **HTML**                                   | **CSS**                                  | **JavaScript**                                            | **SQL**                                     |
 
+- **Frameworks**:
+
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express.js](https://skillicons.dev/icons?i=express) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![SASS](https://skillicons.dev/icons?i=sass) | ![React](https://skillicons.dev/icons?i=react) |
+| ------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------- | --------------------------------------------- |
+| **Node.js**                                       | **Express.js**                                        | **Bootstrap**                                         | **SASS**                                    | **React**                                     |
+
+
 - **Herramientas y Tecnologías**:
   
-| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Linux](https://skillicons.dev/icons?i=linux) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| ------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | ------------------------------------------ | --------------------------------------------- |
-| **VSCode**                                                   | **Git**                                   | **Notion**                                    | **Node.js**                                      | **Linux**                                   | **MySQL**                                    |
+| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![Linux](https://skillicons.dev/icons?i=linux) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| ------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| **VSCode**                                                   | **Git**                                   | **Notion**                                    | **Linux**                                   | **MySQL**                                    |
 
 
 ## 🚀 Proyectos Destacados
