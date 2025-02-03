@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Todo empezó en 42Málaga, donde empecé aprendiendo C, todo en Linux. Me gustó bastante, vi cuantas cosas se podías hacen y mi vena creadora se empezó a estimular a lo grande. Tras un año en la escuela, decidí dar un paso más y entré en Socratech para así empezar mi camino como Full Stack Developper. Aquí JavaScript está siendo mi gran aliada :) 
+Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Todo empezó en 42Málaga, donde empecé aprendiendo C, todo en Linux. Me gustó bastante, vi cuantas cosas se podían hacen y mi vena creadora se empezó a estimular a lo grande. Tras un año en la escuela, decidí dar un paso más y entré en Socratech para así empezar mi camino como Full Stack Developper. Aquí JavaScript está siendo mi gran aliada :) 
 
 ## 🛠 Habilidades
 
@@ -26,8 +26,8 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Todo
 
 ## 🚀 Proyectos Destacados
 
+
 - **[so_long](https://github.com/pepinedo/so_long)**: Pequeño minijuego 2D desarrollado en C.
-- **[printf](https://github.com/pepinedo/Printf)**: Reproducción de la función printf en C. 
 - **[libft](https://github.com/pepinedo/Libft)**: La biblioteca en C que utilizo en 42. Completamente desarrollada a mano.
 
 ## 📫 Contacto
