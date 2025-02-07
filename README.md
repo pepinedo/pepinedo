@@ -26,7 +26,7 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Todo
 
 ## 🚀 Proyectos Destacados
 
-
+- **[Web de Hospitales](https://github.com/pepinedo/Proyecto-mitad-de-bootcamp-Socratech)**: Pequeña web conectada a una base de datos, hecha con NodeJS y algunos frameworks más.
 - **[so_long](https://github.com/pepinedo/so_long)**: Pequeño minijuego 2D desarrollado en C.
 - **[libft](https://github.com/pepinedo/Libft)**: La biblioteca en C que utilizo en 42. Completamente desarrollada a mano.
 
