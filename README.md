@@ -18,10 +18,11 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Todo
 
 
 - **Herramientas y Tecnologías**:
-  
-| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![Linux](https://skillicons.dev/icons?i=linux) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| ------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
-| **VSCode**                                                   | **Git**                                   | **Notion**                                    | **Linux**                                   | **MySQL**                                    |
+
+
+| ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) | ![Notion](https://skillicons.dev/icons?i=notion) | ![Linux](https://skillicons.dev/icons?i=linux) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Postman](https://skillicons.dev/icons?i=postman) |
+| ------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------- | ------------------------------------------ | --------------------------------------------- | ----------------------------------------------- |
+| **VSCode**                                                   | **Git**                                   | **Notion**                                    | **Linux**                                   | **MySQL**                                    | **Postman**                                    |
 
 
 ## 🚀 Proyectos Destacados
