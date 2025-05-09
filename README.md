@@ -12,9 +12,9 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Todo
 
 - **Frameworks**:
 
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express.js](https://skillicons.dev/icons?i=express) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![SASS](https://skillicons.dev/icons?i=sass) | ![React](https://skillicons.dev/icons?i=react) | ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) |
-| ------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------- | --------------------------------------------- | ------------------------------------------------------- |
-| **Node.js**                                       | **Express.js**                                        | **Bootstrap**                                         | **SASS**                                    | **React**                                     | **Tailwind CSS**                                        |
+| ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express.js](https://skillicons.dev/icons?i=express) | ![Spring Boot](https://skillicons.dev/icons?i=spring) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![SASS](https://skillicons.dev/icons?i=sass) | ![React](https://skillicons.dev/icons?i=react) | ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) |
+|-------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|------------------------------------------------------|---------------------------------------------|-----------------------------------------------|--------------------------------------------------------|
+| **Node.js**                                     | **Express.js**                                      | **Spring Boot**                                     | **Bootstrap**                                        | **SASS**                                    | **React**                                       | **Tailwind CSS**                                      |
 
 - **Herramientas y Tecnologías**:
 
