@@ -6,16 +6,16 @@ Mi nombre es Pedro y soy un psicólogo que ha descubierto la programación. Todo
 
 - **Lenguajes de programación**:
 
-| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![Python](https://skillicons.dev/icons?i=python) | ![SQL](https://skillicons.dev/icons?i=mysql) |
-| -------------------------------------- | ------------------------------------------ | ------------------------------------------ | ---------------------------------------- | -------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
-| **C**                                  | **C++**                                    | **HTML**                                   | **CSS**                                  | **JavaScript**                                            | **Python**                                       | **SQL**                                     |
-
+| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Java](https://skillicons.dev/icons?i=java) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![Python](https://skillicons.dev/icons?i=python) | ![SQL](https://skillicons.dev/icons?i=mysql) |
+|---------------------------------------|--------------------------------------------|---------------------------------------------|---------------------------------------------|-------------------------------------------|---------------------------------------------------------|-------------------------------------------------|--------------------------------------------|
+| **C**                                 | **C++**                                    | **Java**                                    | **HTML**                                    | **CSS**                                   | **JavaScript**                                          | **Python**                                      | **SQL**                                   |
 
 - **Frameworks**:
 
 | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Express.js](https://skillicons.dev/icons?i=express) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![SASS](https://skillicons.dev/icons?i=sass) | ![React](https://skillicons.dev/icons?i=react) | ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) |
 | ------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------- | --------------------------------------------- | ------------------------------------------------------- |
 | **Node.js**                                       | **Express.js**                                        | **Bootstrap**                                         | **SASS**                                    | **React**                                     | **Tailwind CSS**                                        |
+
 - **Herramientas y Tecnologías**:
 
 
